@@ -62,7 +62,7 @@ function App() {
       <a href="https://twitter.com/0xca0a" class="top-right" children="Twitter" />
       <a href="https://github.com/react-spring/react-spring" class="bottom-left" children="+ react-spring" />
       <a href="https://www.instagram.com/tina.henschel/" class="bottom-right" children="Illustrations @ Tina Henschel" />
-      <span class="header">REACT THREE FIBER</span>
+      <span class="header">REACT THREE FIBER </span>
     </div>
   )
 }
